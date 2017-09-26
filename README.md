@@ -8,7 +8,7 @@ stupid little hack to blink the ThinkLight™ on FreeBSD
   
   
 ## Usage
-`acpi-ibm` must be loaded
+`acpi_ibm` must be loaded
   
     thinkflash [milliseconds]
   
